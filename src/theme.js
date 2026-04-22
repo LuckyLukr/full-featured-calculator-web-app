@@ -5,12 +5,12 @@ export const theme = {
     "heading": "Montserrat"
   },
   "palette": {
-    "bg": "#5199e1",
-    "text": "#000205",
+    "bg": "#020617",
+    "text": "#e2e8f0",
     "muted": "#5b6b7d",
-    "accent": "#26978e",
-    "primary": "#030d1c",
-    "surface": "#f2f2f2"
+    "accent": "#22d3ee",
+    "primary": "#6366f1",
+    "surface": "#0f172a"
   },
   "spacing": "spacious",
   "borderRadius": "xl"
